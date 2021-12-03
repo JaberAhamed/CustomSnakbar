@@ -8,5 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CustomSnakbar"
 include ':SnakbarCustom'
-include ':app'
+
 
